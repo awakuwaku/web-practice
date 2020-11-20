@@ -7,6 +7,8 @@ Web Application Practice
 ```
 ├── html                : HTML/CSS
 ├── ruby                : Ruby
+├── rails               : Ruby on Rails
+│    ├── sample_app     : Ruby on Rails Sample Application
 ├── XXX                 : XXX
 │    ├── XXX            : XXX
 │    ├── XXX            : XXX
