@@ -5,7 +5,8 @@ Web Application Practice
 # ディレクトリ構成
 
 ```
-├── XXX                 : Web Application Practice
+├── html                : HTML/CSS
+├── XXX                 : XXX
 │    ├── XXX            : XXX
 │    ├── XXX            : XXX
 ```
