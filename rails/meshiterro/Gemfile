@@ -70,3 +70,9 @@ gem "refile-mini_magick"
 
 # ページング module
 gem 'kaminari','~> 1.2.1'
+
+# bootstrap module
+gem 'bootstrap', '~> 4.5'
+gem 'jquery-rails'
+# font-awesome-sass module
+gem 'font-awesome-sass', '~> 5.13'
